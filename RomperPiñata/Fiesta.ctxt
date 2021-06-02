@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Fiesta
+comment1.params=fila
+comment1.target=void\ formarFila(java.lang.String[])
+comment1.text=Este\ metodo\ recibe\ un\ arreglo\ de\ Strings\ y\ los\ guarda\ en\ la\ cola\ queue\ que\ es\ una\ variable\ de\ clase
+comment2.params=
+comment2.target=void\ primeraOportunidad()
+comment2.text=En\ este\ metodo\ los\ ni\u00F1os\ pasan\ a\ pegarle\ a\ la\ pi\u00F1ata\ si\ no\ le\ pegan\ lo\ suficientemente\ fuerte\ se\ vuelven\ a\ formar\r\n\ \ \ \ y\ si\ un\ ni\u00F1o\ la\ rompe\ la\ pi\u00F1ata\ la\ fila\ se\ rompe,\ para\ esto\ se\ usa\ una\ variable\ llamda\ da\u00F1o\ que\ se\ genera\ aleatoriamente\ \ entre\ \r\n30\ y\ 68\ donde\ si\ es\ menor\ de\ 33\ la\ pi\u00F1ata\ no\ se\ rompe\ y\ si\ es\ mayor\ de\ 66\ la\ pi\u00F1ata\ se\ rompe
+comment3.params=
+comment3.target=int\ pegarPi\u00F1ata()
+comment3.text=Este\ metodo\ nos\ genera\ un\ numero\ de\ porcentaje\ de\ da\u00F1o\ para\ cada\ ni\u00F1o\ de\ la\ cola
+comment4.params=fila
+comment4.target=void\ filaAux(java.lang.String[])
+comment4.text=Con\ este\ metodo\ podemos\ saber\ los\ nombres\ de\ los\ ni\u00F1os\ en\ la\ fila
+comment5.params=tombola
+comment5.target=void\ pi\u00F1ataAleatorio(int[])
+comment5.text=Segunda\ vuelta\r\n\ \ \ \ En\ este\ metodo\ los\ ni\u00F1os\ escogen\ un\ numero\ de\ la\ tombola\ y\ el\ que\ tenga\ el\ numero\ sorteado\ se\ queda\ en\ su\ lugar\ y\ los\ demas\ se\ pasan\ atras\ de\ el\ \r\nsiendo\ el\ el\ primero\ en\ pasar\ a\ pegarle\ a\ la\ pi\u00F1ata,\ para\ romper\ la\ pi\u00F1ata\ es\ parecido\ al\ de\ la\ primera\ ronda
+comment6.params=
+comment6.target=int[]\ tombola()
+comment6.text=Este\ metodo\ nos\ genera\ un\ arreglo\ con\ n\ numeros\ aleatorios\ dependiendo\ de\ la\ cantidad\ de\ ni\u00F1os\ en\ la\ cola,\ los\ numeros\ van\ de\ 1\ a\ n\ sin\ que\ se\ repitan
+numComments=7

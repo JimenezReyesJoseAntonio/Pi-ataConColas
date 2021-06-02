@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Test01
+comment0.text=\r\n\ \ clase\ de\ prueba\r\n\ \ se\ muestra\ como\ los\ ni\u00F1os\ rompen\ la\ pi\u00F1ata\ de\ dos\ maneras\ primero\ pasando\ como\ llegaron\ y\ despues\ se\ forman\ y\ escogen\ un\ papel\ con\ un\ numero\r\n\ \ que\ se\ sortea\ quien\ tenga\ el\ numero\ sera\ el\ primero\ en\ pasar\ los\ demas\ se\ forman\ detras\ del\ que\ salio\ sorteado.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
